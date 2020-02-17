@@ -1,36 +1,4 @@
     1  sudo resize2fs /dev/sda1
     2  df -h
     3  update-clean
-    4  ifconfig -a
-    5  ifconfig -a*
-    6  ifconfig -a
-    7  clear
-    8  ifconfig -a
-    9  ping 8.8.8.8
-   10  sudo apt update
-   11  ifconfig -a
-   12  git clone https://github.com/laparisienne/alyra-exercices.git
-   13  ls
-   14  alyra-exercices/
-   15  cd alyra-exercices/
-   16  code . 
-   17  ls
-   18  cd semaine1/
-   19  pwd
-   20  git init
-   21  nano pwd
-   22  pwd
-   23  touch Redme.md
-   24  git add*
-   25  git add
-   26  git add *
-   27  git commit -m
-   28  ls
-   29  git commit -o Redme.md 
-   30  git config --global khayar.sarr@gmail.com
-   31  git commit -o Redme.md 
-   32  git puch
-   33  git push
-   34  git remote add https://github.com/laparisienne/alyra-exercices.git
-   35  history > notes-Commande ksarr
-   36  history > notes-Commande-ksarr
+  
