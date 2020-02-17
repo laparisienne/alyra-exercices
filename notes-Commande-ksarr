@@ -1,4 +1,0 @@
-    1  sudo resize2fs /dev/sda1
-    2  df -h
-    3  update-clean
-  
